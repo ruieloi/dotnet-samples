@@ -1,0 +1,8 @@
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase\bin\Debug\netcoreapp2.0\Data.Firebase.deps.json
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase\bin\Debug\netcoreapp2.0\Data.Firebase.dll
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase\obj\Debug\netcoreapp2.0\Data.Firebase.csprojResolveAssemblyReference.cache
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase\obj\Debug\netcoreapp2.0\Data.Firebase.csproj.CoreCompileInputs.cache
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase\obj\Debug\netcoreapp2.0\Data.Firebase.AssemblyInfo.cs
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase\bin\Debug\netcoreapp2.0\Data.Firebase.pdb
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase\obj\Debug\netcoreapp2.0\Data.Firebase.dll
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase\obj\Debug\netcoreapp2.0\Data.Firebase.pdb

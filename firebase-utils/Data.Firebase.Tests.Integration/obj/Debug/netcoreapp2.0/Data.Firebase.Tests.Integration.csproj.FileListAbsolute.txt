@@ -1,0 +1,15 @@
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.deps.json
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.runtimeconfig.json
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.runtimeconfig.dev.json
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.dll
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.pdb
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Data.Firebase.dll
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\bin\Debug\netcoreapp2.0\Data.Firebase.pdb
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\obj\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.csprojResolveAssemblyReference.cache
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\obj\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.csproj.CoreCompileInputs.cache
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\obj\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.AssemblyInfo.cs
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\obj\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.dll
+C:\Eloi\Freelancer\Opensource\dotnet-samples\firebase-utils\Data.Firebase.Tests.Integration\obj\Debug\netcoreapp2.0\Data.Firebase.Tests.Integration.pdb
