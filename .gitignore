@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/auth0-managementAPI-webapi/auth0-managementAPI-webapi/bin/Debug/netcoreapp2.0
+/auth0-managementAPI-webapi/Auth0.ManagementAPI.WebApi/bin/
+/auth0-managementAPI-webapi/Auth0.ManagementAPI.WebApi/obj/
