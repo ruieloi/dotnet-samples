@@ -5,6 +5,7 @@ API consuming Auth0 Management API
 ## Dependencies
 
 Auth0.Management.API 4.4 - Nuget Package
+Auth0.Authentication.API 4.2 - Nuget Package
 
 ## Before Getting started
 
@@ -13,8 +14,11 @@ Auth0.Management.API 4.4 - Nuget Package
 - Add all scopes to the client
 - Go to tab "Test" in Auht0 Management API and copy the Token for the client you created.
 - Update app.settings auth0 data:
-	Token:
-	Domain
+	"Auth0": {
+		"Domain": "",
+		"ClientId": "",
+		"ClientSecret": ""
+	  }
 
 ## Start
 
