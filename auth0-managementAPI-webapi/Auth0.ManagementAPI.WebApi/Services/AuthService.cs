@@ -29,7 +29,7 @@ namespace Auth0.ManagementAPI.WebApi.Services
                 if (this.CurrentAccessToken == null || this.AccessTokenExpirationDate < DateTime.Now.AddMinutes(1))
                 {
                     var auth0AuthenticationClient = new AuthenticationApiClient(
-                        new Uri(String.Format("https://{0}", Domain)));
+                        new Uri(String.Format("https://{0}", this.Domain)));
 
                     var tokenRequest = new ClientCredentialsTokenRequest()
                     {

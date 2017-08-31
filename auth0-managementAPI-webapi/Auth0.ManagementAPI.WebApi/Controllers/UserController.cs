@@ -13,6 +13,20 @@ namespace Auth0.ManagementAPI.WebApi.Controllers
     public class UserController : Controller
     {
         private readonly IAuthService AuthService;
+        private ManagementApiClient _managementApiClient;
+
+        private ManagementApiClient ManagementApiClient
+        {
+            get
+            {
+                if(_managementApiClient == null)
+                {
+                    string token = Task.Run(() => AuthService.GetTokenAsync()).Result;
+                    _managementApiClient = new ManagementApiClient(token, AuthService.Domain);
+                }
+                return _managementApiClient;
+            }
+        }
 
         public UserController(IConfiguration configuration, IAuthService authService)
         {
@@ -25,11 +39,7 @@ namespace Auth0.ManagementAPI.WebApi.Controllers
         {
             try
             {
-                var token = await AuthService.GetTokenAsync();
-                
-                var client = new ManagementApiClient(token, AuthService.Domain);
-
-                return await client.Users.GetAllAsync();
+                return await ManagementApiClient.Users.GetAllAsync();
             }
             catch (Exception ex)
             {
