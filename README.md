@@ -20,4 +20,7 @@ https://firebase.google.com/
 
 Example of Swagger usage in Web API Core 2.0
 
+## SQL Server Management
+
+Some set of operations to manage a SQL Server.
 
