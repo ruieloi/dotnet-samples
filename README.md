@@ -16,5 +16,8 @@ Web API that consumes Auth0 Authorization Management API.
 Classes to help manage Firebase. 
 https://firebase.google.com/
 
+## Swagger-WebAPI
+
+Example of Swagger usage in Web API Core 2.0
 
 
