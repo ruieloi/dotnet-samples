@@ -2,7 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/auth0-managementAPI-webapi/Auth0.ManagementAPI.WebApi/bin/
-/auth0-managementAPI-webapi/Auth0.ManagementAPI.WebApi/obj/
-/swagger-webapi/swagger.webapi/bin/
-/swagger-webapi/swagger.webapi/obj/
+bin/
+obj/
